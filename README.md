@@ -1,0 +1,2 @@
+# AI-Research-Idea-Generator-Novelty-Validator-An-Autonomous-Agent-for-Innovation-Discovery
+This project addresses the challenge of enabling teams and individuals to create high‑quality content (summaries, reports, insights, notes, analytics) directly from videos without manually watching them. Traditional workflows require significant time, especially when dealing with lectures, courses, meetings, or long technical presentations.
